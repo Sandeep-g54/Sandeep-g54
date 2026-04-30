@@ -1,5 +1,5 @@
 # 💫 About Me:
-UNT Data science student
+Hi 👋, I'm Sandeep Kumar Gajula<br>Aspiring Data Science Student<br>📫 How to reach me sandeepgajula54@gmail.com
 
 
 ## 🌐 Socials:
