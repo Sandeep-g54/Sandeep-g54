@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Sandeep Kumar Gajula<br>Aspiring Data Science Student<br>📫 You can reach me sandeepgajula54@gmail.com [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandeepgajula54@gmail.com) 
-
+Hi 👋, I'm Sandeep Kumar Gajula<br>Aspiring Data Science Student<br>📫 You can reach me sandeepgajula54@gmail.com 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-kumar-g-647692233/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandeepgajula54@gmail.com) 
